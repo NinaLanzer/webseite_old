@@ -1,6 +1,14 @@
 layout: page
 title: "CV"
-permalink: /about/CV
+permalink: /cv/
 
 
-add CV here
+
+# Your Name - Curriculum Vitae
+
+## Education
+- Degree, University, Year
+
+## Work Experience
+- Job Title, Company, Year
+
