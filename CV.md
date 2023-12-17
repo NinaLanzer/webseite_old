@@ -1,7 +1,8 @@
+---
 layout: page
-title: "CV"
+title: Curriculum Viae
 permalink: /cv/
-
+---
 
 
 # Your Name - Curriculum Vitae
